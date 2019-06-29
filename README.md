@@ -12,3 +12,5 @@ Voy a tratar de describir algunos de los retos principales que enfrentamos quien
 En este curso 0 vamos a platicar de un tema que casi no se toca en los cursos que he tomado: Trabajar con los datos (imágenes, texto, sonidos) que se requieren para entrenar modelos de aprendizaje automático. También vamos a cubrir algunos algoritmos básicos que nos permiten hacer predicciones.
 
 Las redes neuronales se verrán en el curso 1.
+
+Como nota final: Mi campo de trabajo es visión por computadora y por eso me voy a enfocar un poco más en aplicaciones de este campo. Espero que esto no sea un factor que te impida trabajar en aplicaciones que a ti te interesen.
